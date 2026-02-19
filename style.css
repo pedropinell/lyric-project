@@ -1,5 +1,6 @@
 h2{
     color: red;
+
 }
 img{
     width: 400px;
@@ -9,4 +10,8 @@ img{
 }
 h1{
    font-family: "quintessential";
+}
+body{
+    background-image: url('')
+    background-size: cover;
 }
