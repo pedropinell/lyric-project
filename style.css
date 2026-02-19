@@ -4,4 +4,10 @@ h2{
 img{
     width: 400px;
 }
-
+h1{
+    .quintessential-regular {
+  font-family: "Quintessential", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
