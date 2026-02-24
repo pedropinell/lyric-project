@@ -1,11 +1,11 @@
 h2{
-    color: red;
+    color: blue;
 
 }
 img{
     width: 400px;
-    padding: 15px black ;
-    border: 20px solid brown;
+    padding: 15px blue ;
+    border: 20px solid orange;
     margin: 50px;
 }
 h1{
@@ -18,7 +18,7 @@ body{
 }
 .text {
   width: 80%;
-  background-color: burlywood;
+  background-color: orange;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
